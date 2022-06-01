@@ -13,10 +13,10 @@
 * VS Cod.
 * Git, GitHub.
 ## Languages:
-1. **English:** Intermediate.
-2. **Polish:** pre-intermediate.
-3. **Czech:** Intermediate
-4. **Russian:** Native.
+**English:** Intermediate.
+**Polish:** pre-intermediate.
+**Czech:** Intermediate
+**Russian:** Native.
 ## Contact information:
 *Email*: chyrych.tatsiana@gmail.com
 
